@@ -1,6 +1,6 @@
 # Hierarchical Time Series with Walmart M5 dataset
 
-Time series forecasting is a common Data Science task and is used in many applications including demand forecasting, stock-market returns and in predictive maintenance. Often times, real-world time series follow a hierarchical aggregation structure which arise from typical hierarchies like:
+Time series forecasting is a common Data Science task and is used in many applications including demand forecasting, stock-market returns and in predictive maintenance. Often, real-world time series follow a hierarchical aggregation structure which arise from typical hierarchies like:
 
 * geographical (e.g. COVID cases broken down by regions - https://coronavirus.data.gov.uk/details/interactive-map),
 * product (e.g. supermarket product categories in Walmart M5 dataset),
